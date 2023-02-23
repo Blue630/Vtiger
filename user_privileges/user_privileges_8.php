@@ -1,0 +1,9 @@
+<?php
+
+
+//This is the access privilege file
+$is_admin=true;
+
+$user_info=array('user_name'=>'Carmen','is_admin'=>'on','user_password'=>'$1$Ca000000$27Mzw79h0WoLQmWT8QLZc1','confirm_password'=>'$1$Ca000000$27Mzw79h0WoLQmWT8QLZc1','first_name'=>'Carmen','last_name'=>'Roggero','roleid'=>'H4','email1'=>'carmen@trein.it','status'=>'Inactive','activity_view'=>'This Month','lead_view'=>'Last Week','hour_format'=>'24','end_hour'=>'','start_hour'=>'08:00','title'=>'','phone_work'=>'','department'=>'','phone_mobile'=>'','reports_to_id'=>'','phone_other'=>'','email2'=>'','phone_fax'=>'','secondaryemail'=>'','phone_home'=>'','date_format'=>'dd-mm-yyyy','signature'=>'','description'=>'','address_street'=>'','address_city'=>'','address_state'=>'','address_postalcode'=>'','address_country'=>'','accesskey'=>'vzv8xUui4jd9yoE0','time_zone'=>'Europe/Amsterdam','currency_id'=>'1','currency_grouping_pattern'=>'123,456,789','currency_decimal_separator'=>'.','currency_grouping_separator'=>'&nbsp;','currency_symbol_placement'=>'&euro;1,00','imagename'=>'executive_boss_ceo_woman-128.png','internal_mailer'=>'0','theme'=>'softed','language'=>'it_it','reminder_interval'=>'1 Hour','no_of_currency_decimals'=>'2','truncate_trailing_zeros'=>'0','dayoftheweek'=>'Monday','callduration'=>'5','othereventduration'=>'5','calendarsharedtype'=>'public','default_record_view'=>'Summary','leftpanelhide'=>'0','rowheight'=>'medium','defaulteventstatus'=>'Seleziona una opzione','defaultactivitytype'=>'Seleziona una opzione','hidecompletedevents'=>'0','is_owner'=>'1','defaultcalendarview'=>'MyCalendar','phone_crm_extension'=>'','defaultlandingpage'=>'Home','currency_name'=>'Euro','currency_code'=>'EUR','currency_symbol'=>'&#8364;','conv_rate'=>'1.00000','record_id'=>'','record_module'=>'','id'=>'8');
+
+?>

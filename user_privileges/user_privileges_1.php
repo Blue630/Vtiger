@@ -1,0 +1,9 @@
+<?php
+
+
+//This is the access privilege file
+$is_admin=true;
+
+$user_info=array('user_name'=>'admin','is_admin'=>'on','user_password'=>'$2y$10$aN9gY6tALjWxCCoI0NGEMODqh8GDPpcNIKJxO3dp34cIZOQ491/iW','confirm_password'=>'$2y$10$aN9gY6tALjWxCCoI0NGEMODqh8GDPpcNIKJxO3dp34cIZOQ491/iW','first_name'=>'Sistema','last_name'=>'RSI-Windows','roleid'=>'H2','email1'=>'giorgio@papallo.it','status'=>'Active','activity_view'=>'This Month','lead_view'=>'Today','hour_format'=>'24','end_hour'=>'19:00','start_hour'=>'08:00','title'=>'','phone_work'=>'','department'=>'','phone_mobile'=>'','reports_to_id'=>'','phone_other'=>'','email2'=>'','phone_fax'=>'','secondaryemail'=>'','phone_home'=>'','date_format'=>'dd-mm-yyyy','signature'=>'','description'=>'','address_street'=>'','address_city'=>'','address_state'=>'','address_postalcode'=>'','address_country'=>'','accesskey'=>'3w02ufmmp5UN9Znp','time_zone'=>'Europe/Brussels','currency_id'=>'1','currency_grouping_pattern'=>'123,456,789','currency_decimal_separator'=>'.','currency_grouping_separator'=>'.','currency_symbol_placement'=>'&euro;1,00','imagename'=>'__-17-128.png','internal_mailer'=>'1','theme'=>'softed','language'=>'it_it','reminder_interval'=>'','no_of_currency_decimals'=>'2','truncate_trailing_zeros'=>'0','dayoftheweek'=>'Monday','callduration'=>'60','othereventduration'=>'30','calendarsharedtype'=>'public','default_record_view'=>'Summary','leftpanelhide'=>'1','rowheight'=>'medium','defaulteventstatus'=>'Seleziona','defaultactivitytype'=>'Seleziona','hidecompletedevents'=>'0','is_owner'=>'1','defaultcalendarview'=>'SharedCalendar','phone_crm_extension'=>'','defaultlandingpage'=>'Home','currency_name'=>'Euro','currency_code'=>'EUR','currency_symbol'=>'&#8364;','conv_rate'=>'1.00000','record_id'=>'','record_module'=>'','id'=>'1');
+
+?>

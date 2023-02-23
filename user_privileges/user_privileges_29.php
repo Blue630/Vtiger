@@ -1,0 +1,9 @@
+<?php
+
+
+//This is the access privilege file
+$is_admin=true;
+
+$user_info=array('user_name'=>'Veronica','is_admin'=>'on','user_password'=>'$2y$10$1z2VWp4SssqONP3FgNuSUutYeNYjSLN94ZeBAx.B/O2c50WcmwzV6','confirm_password'=>'$2y$10$jhWaBzgKIiwyXej3urSxW.W.dlYew/QXHLC00trsZXP8ODgBJVGp2','first_name'=>'Veronica','last_name'=>'Bertone','roleid'=>'H4','email1'=>'veronica@bertoneserramenti.it','status'=>'Active','activity_view'=>'Today','lead_view'=>'Today','hour_format'=>'24','end_hour'=>'19:00','start_hour'=>'09:00','title'=>'','phone_work'=>'019501473','department'=>'214','phone_mobile'=>'3337959828','reports_to_id'=>'','phone_other'=>'','email2'=>'vevivevi91@gmail.com','phone_fax'=>'0195092824','secondaryemail'=>'','phone_home'=>'','date_format'=>'dd-mm-yyyy','signature'=>'','description'=>'','address_street'=>'Via della Bormida, 13','address_city'=>'Cengio','address_state'=>'SV','address_postalcode'=>'17056','address_country'=>'Italia','accesskey'=>'O274Z8TLPrHfc9lw','time_zone'=>'UTC','currency_id'=>'1','currency_grouping_pattern'=>'123,456,789','currency_decimal_separator'=>',','currency_grouping_separator'=>'.','currency_symbol_placement'=>'&euro;1,00','imagename'=>'','internal_mailer'=>'0','theme'=>'softed','language'=>'it_it','reminder_interval'=>'','no_of_currency_decimals'=>'2','truncate_trailing_zeros'=>'0','dayoftheweek'=>'Monday','callduration'=>'60','othereventduration'=>'30','calendarsharedtype'=>'public','default_record_view'=>'Summary','leftpanelhide'=>'0','rowheight'=>'medium','defaulteventstatus'=>'Seleziona','defaultactivitytype'=>'Seleziona','hidecompletedevents'=>'0','is_owner'=>'','defaultcalendarview'=>'ListView','phone_crm_extension'=>'','defaultlandingpage'=>'Home','currency_name'=>'Euro','currency_code'=>'EUR','currency_symbol'=>'&#8364;','conv_rate'=>'1.00000','record_id'=>'','record_module'=>'','id'=>'29');
+
+?>
